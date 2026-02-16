@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project Data Folders (do not commit raw or generated data)
+data/raw/
+data/interim/
+data/processed/
+~$*.xlsx
